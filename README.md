@@ -1,4 +1,5 @@
 ## Will upload full recipe soon
+#### The Yocto Project (YP) is an open source collaboration project that helps developers create custom Linux-based systems regardless of the hardware architecture.
 
 ### Core-image-sato image
 I now have a minimal Linux image.
